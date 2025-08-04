@@ -1,0 +1,21 @@
+{
+  "name": "laravel-quicktask",
+  "description": "",
+  "main": "",
+  "authors": [
+    "minhtamdo <tammdo2004@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/minhtamdo/laravel_quicktask",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.7.1"
+  }
+}
